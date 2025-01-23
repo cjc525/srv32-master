@@ -1,11 +1,8 @@
-# SRV32 - Simple 3-stage pipeline RISC-V processor
+# SRV32 - 2024_CA_FinalProject
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d14f73089d014a87beb91960e9340617)](https://www.codacy.com/manual/kuopinghsu/srv32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kuopinghsu/srv32&amp;utm_campaign=Badge_Grade)
-
-This is a simple RISC-V 3-stage pipeline processor and supports FreeRTOS.
-I wrote this code to understand the RV32IM instruction set, just for fun.
-The performance is 1.945 DMIPS/MHz and 3.170 Coremark/MHz.
-This is not a RISC-V core available for production.
+This project is modified from SRV32.
+We added the cache system to enhance its functionality.
+More details in [Implement cache system for srv32](https://hackmd.io/@sysprog/SyPRqhLBye)
 
 ## Features
 
