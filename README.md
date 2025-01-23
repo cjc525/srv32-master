@@ -1,7 +1,7 @@
 # SRV32 - 2024_CA_FinalProject
 
-This project is modified from SRV32.\n
-We added the cache system to enhance its functionality.\n
+This project is modified from SRV32.
+We added the cache system to enhance its functionality.
 More details in [Implement cache system for srv32](https://hackmd.io/@sysprog/SyPRqhLBye)
 
 ## Features
